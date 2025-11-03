@@ -1,4 +1,5 @@
-🧬 Proyecto: Análisis de Salud - GRUPO X - VIDA EN DATOS
+🧬 Proyecto: Análisis de Hábitos de Salud
+
 Por Elena Jiménez Blasco
 
 🩺 Descripción del proyecto
